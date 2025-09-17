@@ -1,0 +1,14 @@
+/* Todos los H1 en verde */
+h1 {
+  color: green;
+}
+
+/* Clase "blue" → azul */
+.blue {
+  color: blue;
+}
+
+/* ID "red" → rojo */
+#red {
+  color: red;
+}
